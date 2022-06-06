@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mayerzarave@gmail.com
+	name = Mayerza Rave
